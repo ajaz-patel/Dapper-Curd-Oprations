@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E021CB1-BCFB-4288-B587-AFEF27A618AE}|webapi dotnet core\\webapi dotnet core.csproj|c:\\users\\apatel\\onedrive - stridely solutions india pvt ltd\\c# assingment programme\\webapi dotnet core\\webapi dotnet core\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E021CB1-BCFB-4288-B587-AFEF27A618AE}|webapi dotnet core\\webapi dotnet core.csproj|solutionrelative:webapi dotnet core\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E021CB1-BCFB-4288-B587-AFEF27A618AE}|webapi dotnet core\\webapi dotnet core.csproj|c:\\users\\apatel\\onedrive - stridely solutions india pvt ltd\\c# assingment programme\\webapi dotnet core\\webapi dotnet core\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E021CB1-BCFB-4288-B587-AFEF27A618AE}|webapi dotnet core\\webapi dotnet core.csproj|solutionrelative:webapi dotnet core\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E021CB1-BCFB-4288-B587-AFEF27A618AE}|webapi dotnet core\\webapi dotnet core.csproj|c:\\users\\apatel\\onedrive - stridely solutions india pvt ltd\\c# assingment programme\\webapi dotnet core\\webapi dotnet core\\don\u0027t tansfer objects\\dtostoadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E021CB1-BCFB-4288-B587-AFEF27A618AE}|webapi dotnet core\\webapi dotnet core.csproj|solutionrelative:webapi dotnet core\\don\u0027t tansfer objects\\dtostoadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E021CB1-BCFB-4288-B587-AFEF27A618AE}|webapi dotnet core\\webapi dotnet core.csproj|c:\\users\\apatel\\onedrive - stridely solutions india pvt ltd\\c# assingment programme\\webapi dotnet core\\webapi dotnet core\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E021CB1-BCFB-4288-B587-AFEF27A618AE}|webapi dotnet core\\webapi dotnet core.csproj|solutionrelative:webapi dotnet core\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E021CB1-BCFB-4288-B587-AFEF27A618AE}|webapi dotnet core\\webapi dotnet core.csproj|c:\\users\\apatel\\onedrive - stridely solutions india pvt ltd\\c# assingment programme\\webapi dotnet core\\webapi dotnet core\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E021CB1-BCFB-4288-B587-AFEF27A618AE}|webapi dotnet core\\webapi dotnet core.csproj|solutionrelative:webapi dotnet core\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E021CB1-BCFB-4288-B587-AFEF27A618AE}|webapi dotnet core\\webapi dotnet core.csproj|c:\\users\\apatel\\onedrive - stridely solutions india pvt ltd\\c# assingment programme\\webapi dotnet core\\webapi dotnet core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E021CB1-BCFB-4288-B587-AFEF27A618AE}|webapi dotnet core\\webapi dotnet core.csproj|solutionrelative:webapi dotnet core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E021CB1-BCFB-4288-B587-AFEF27A618AE}|webapi dotnet core\\webapi dotnet core.csproj|c:\\users\\apatel\\onedrive - stridely solutions india pvt ltd\\c# assingment programme\\webapi dotnet core\\webapi dotnet core\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E021CB1-BCFB-4288-B587-AFEF27A618AE}|webapi dotnet core\\webapi dotnet core.csproj|solutionrelative:webapi dotnet core\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E021CB1-BCFB-4288-B587-AFEF27A618AE}|webapi dotnet core\\webapi dotnet core.csproj|c:\\users\\apatel\\onedrive - stridely solutions india pvt ltd\\c# assingment programme\\webapi dotnet core\\webapi dotnet core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E021CB1-BCFB-4288-B587-AFEF27A618AE}|webapi dotnet core\\webapi dotnet core.csproj|solutionrelative:webapi dotnet core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E021CB1-BCFB-4288-B587-AFEF27A618AE}|webapi dotnet core\\webapi dotnet core.csproj|c:\\users\\apatel\\onedrive - stridely solutions india pvt ltd\\c# assingment programme\\webapi dotnet core\\webapi dotnet core\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E021CB1-BCFB-4288-B587-AFEF27A618AE}|webapi dotnet core\\webapi dotnet core.csproj|solutionrelative:webapi dotnet core\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DtosTOadduser.cs",
+              "DocumentMoniker": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\webapi dotnet core\\Don\u0027t tansfer Objects\\DtosTOadduser.cs",
+              "RelativeDocumentMoniker": "webapi dotnet core\\Don\u0027t tansfer Objects\\DtosTOadduser.cs",
+              "ToolTip": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\webapi dotnet core\\Don\u0027t tansfer Objects\\DtosTOadduser.cs",
+              "RelativeToolTip": "webapi dotnet core\\Don\u0027t tansfer Objects\\DtosTOadduser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:50:45.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usermodel.cs",
+              "DocumentMoniker": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\webapi dotnet core\\Models\\Usermodel.cs",
+              "RelativeDocumentMoniker": "webapi dotnet core\\Models\\Usermodel.cs",
+              "ToolTip": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\webapi dotnet core\\Models\\Usermodel.cs",
+              "RelativeToolTip": "webapi dotnet core\\Models\\Usermodel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:29:02.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\webapi dotnet core\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "webapi dotnet core\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\webapi dotnet core\\Properties\\launchSettings.json",
+              "RelativeToolTip": "webapi dotnet core\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T07:50:58.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\webapi dotnet core\\appsettings.json",
+              "RelativeDocumentMoniker": "webapi dotnet core\\appsettings.json",
+              "ToolTip": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\webapi dotnet core\\appsettings.json",
+              "RelativeToolTip": "webapi dotnet core\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T07:50:36.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dappercontext.cs",
+              "DocumentMoniker": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\webapi dotnet core\\Data\\Dappercontext.cs",
+              "RelativeDocumentMoniker": "webapi dotnet core\\Data\\Dappercontext.cs",
+              "ToolTip": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\webapi dotnet core\\Data\\Dappercontext.cs",
+              "RelativeToolTip": "webapi dotnet core\\Data\\Dappercontext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:33:29.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\webapi dotnet core\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "webapi dotnet core\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\webapi dotnet core\\Controllers\\UserController.cs",
+              "RelativeToolTip": "webapi dotnet core\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAuwEQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:27:23.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\webapi dotnet core\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "webapi dotnet core\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\webapi dotnet core\\WeatherForecast.cs",
+              "RelativeToolTip": "webapi dotnet core\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:24:21.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\webapi dotnet core\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "webapi dotnet core\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\webapi dotnet core\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "webapi dotnet core\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:20:27.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\webapi dotnet core\\Program.cs",
+              "RelativeDocumentMoniker": "webapi dotnet core\\Program.cs",
+              "ToolTip": "C:\\Users\\apatel\\OneDrive - Stridely Solutions India pvt ltd\\C# Assingment Programme\\webapi dotnet core\\webapi dotnet core\\Program.cs",
+              "RelativeToolTip": "webapi dotnet core\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAA/wB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:08:54.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

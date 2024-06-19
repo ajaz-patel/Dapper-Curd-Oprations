@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\webapi dotnet core.props" />
+</Project>
